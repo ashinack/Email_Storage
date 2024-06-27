@@ -1,6 +1,6 @@
 ## Introduction
 
-Provide an introduction to your project. Explain what it does, why it exists, and any other relevant information.
+This README offers all the essential details to help you get up and running with the project.
 
 ## Installation
 
@@ -25,6 +25,7 @@ Provide step-by-step instructions on how to install and set up your project. For
 
 ```
 host=your-database-host
+
 db_username=your-database-user
 db_password=your-database-password
 db_name=your-database-name
