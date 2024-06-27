@@ -23,9 +23,8 @@ Provide step-by-step instructions on how to install and set up your project. For
 3. Set up environment variables:
    Create a .env file in the root directory of your project and add the following variables:
 
-host=your-database-host
-
 ```
+host=your-database-host
 db_username=your-database-user
 db_password=your-database-password
 db_name=your-database-name
